@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-pghelu.boser-guyon.org/sitemap.xml
